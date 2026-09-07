@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cinemarunsdeep.com/sitemap.xml
